@@ -1,1 +1,3 @@
+
 Esto es un simple archivo de texto ejemplificando el uso de git
+AHora acabo de insertar otra linea :3 
